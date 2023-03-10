@@ -1,6 +1,8 @@
 # li_live_kit
 
-Flutter接入腾讯云直播组件
+Flutter接入腾讯云直播组件 
+
+> module工程 非project
 
 ## Getting Started
 
