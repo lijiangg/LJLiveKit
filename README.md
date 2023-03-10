@@ -1,11 +1,15 @@
 # li_live_kit
 
-A new Flutter project.
+Flutter接入腾讯云直播组件
 
 ## Getting Started
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
+- lj_live_push_controller 推流控制
+- lj_live_play_controller 拉流控制
+- lj_live_manager 工程key配置
+- lj_live_video_widget ui显示 
 
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+## Demo
+
+见lj_live_page_demo
+
